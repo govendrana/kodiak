@@ -17,9 +17,13 @@
    Assign the role to the User
    ![image](https://github.com/govendrana/kodiak/assets/169263393/a5cea437-005d-4929-9bab-4aa0d4d3ef18)
 
-6. Find the corresponding CDS View and create DCL on top of it
+6. Find the corresponding CDS View and create DCL on top of it.
+      -> Authorization Check is not required. But roles can be defined for later on
+
+   ![image](https://github.com/govendrana/kodiak/assets/169263393/709333e0-895e-464e-b67f-d24c85a1d06a)
+
    ![image](https://github.com/govendrana/kodiak/assets/169263393/e3368e2c-c8c9-4fca-80aa-26d1c795736b)
 
-7. Run the app. Value help will be restricted with only Z* for the user
+9. Run the app. Value help will be restricted with only Z* for the user
    ![image](https://github.com/govendrana/kodiak/assets/169263393/d863c124-a272-439f-9826-b393bb59be07)
 
