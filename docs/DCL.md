@@ -12,7 +12,6 @@
 ![image](https://github.com/govendrana/kodiak/assets/169263393/dd909e1e-3a94-4c26-b922-9e1795ffca53)
 
 5. Under Application -> Activate the variant of the standard service
-   
 ![image](https://github.com/govendrana/kodiak/assets/169263393/9eba60fe-a5c6-4a7b-b471-989935e9c6f4)
 
 6. Custom Authorizatin object will be visible in the role after the standard authorization object
