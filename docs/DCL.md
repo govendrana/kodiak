@@ -20,7 +20,6 @@ Use Case: Restrict the Value help of the standard CDS view with particular value
 
 6. Find the corresponding CDS View
       -> Authorization Check is not required. But roles can be defined for later on
-   
    ![image](https://github.com/govendrana/kodiak/assets/169263393/709333e0-895e-464e-b67f-d24c85a1d06a)
 
 7. Create a custom DCL for the standard Value help CDS View and add the custom authorization object fielt to it. 
@@ -28,4 +27,8 @@ Use Case: Restrict the Value help of the standard CDS view with particular value
 
 8. Run the app. Value help will be restricted with only Z* for the user
    ![image](https://github.com/govendrana/kodiak/assets/169263393/d863c124-a272-439f-9826-b393bb59be07)
+
+9. STAUTHTRACE – Authorization object is captured in trace while using the app
+   ![image](https://github.com/govendrana/kodiak/assets/169263393/af2d1bf0-acb9-4165-8f2f-054491f23447)
+
 
