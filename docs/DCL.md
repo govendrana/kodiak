@@ -1,3 +1,4 @@
+Use Case: Restrict the Value help of the standard CDS view with particular values like z*. Instead of showing all the values in the Value help
 
 1. Create Authorization Class(ZOTC), Authorization Object(ZOTC_RJCN) and add the Authorization Field(ZRJCN)
    ![image](https://github.com/govendrana/kodiak/assets/169263393/7b8227fc-2cac-4b24-b400-72fd339535d6)
